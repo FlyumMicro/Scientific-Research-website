@@ -1,1 +1,17 @@
-# Scientific-Research-website
+## 学校的科研网站项目 {静态网站}
+
+## 技术栈：
+   `html` `Css3` `bootstrap`
+
+## 项目名称：
+  Scientific-Research-website
+
+## 项目功能：
+  1. 响应式网站 （支持手机、IPad、PC）
+  2. 导航栏
+  3. 学院介绍模块 （老师介绍照片）
+  4. 首页全比例轮播图 
+  5. 联系模块
+  6. 小模块
+  7. 注册跳转   ##取消了
+  8. 弹性盒子布局
